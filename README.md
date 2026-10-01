@@ -81,15 +81,6 @@ Abasyn University, Islamabad Campus
 
 [Explore my full certification history](https://www.linkedin.com/in/salmankhan97974/details/certifications/)
 
-## Frontend experiments
-
-Public examples from my frontend practice:
-
-- [Pricing table](https://github.com/SalmanKhan97974/pricing-table)
-- [Keyboard design](https://github.com/SalmanKhan97974/keyboard-design)
-- [Adobe XD to HTML](https://github.com/SalmanKhan97974/XD-TO-HTML)
-- [PSD to HTML](https://github.com/SalmanKhan97974/PSD-TO-HTML1)
-
 ## Currently learning
 
 Google Ads, conversion tracking, and practical ways to connect website performance with business results.
