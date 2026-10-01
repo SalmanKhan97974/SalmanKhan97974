@@ -38,12 +38,12 @@ I've worked on numerous websites and web projects across business and freelance 
 A digital presence for a stone supplier in Sharjah. My contributions include two website redesigns, WordPress and Elementor Pro development, a **326-product WooCommerce catalog**, product and category organization, SEO, and performance improvements. I also manage product photography, catalogs, social content, hosting, and business email.
 
 ### [Rikin Al Fadha](https://rikinalfadha.ae/)
-**Business website · Tools: WordPress, Elementor Pro, WooCommerce**
+**Business website · Tools: WordPress, Elementor, WooCommerce**
 
-Website design and development, alongside ongoing responsibility for the company's two websites.
+Website design and development.
 
 ### [Formatza](https://formatza.com/)
-**Web app · Browser-based file tools**
+**Web app · Tech stack: Next.js App Router, React, TypeScript, Tailwind CSS**
 
 Co-founder alongside Syed Muhammad Usman. A web app with **200+ browser tools** for images, PDFs, video, audio, spreadsheets, and developer workflows. I contribute to the product, its digital presence, and content.
 
