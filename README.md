@@ -13,9 +13,7 @@ I'm a software engineering graduate with hands-on experience in frontend develop
 - **950 completed Fiverr orders**, **791 client reviews**, **4.9 rating**, and **Level 2 seller**.
 - **700+ Discord servers delivered** for creators, gaming communities, and businesses.
 - Website development, maintenance, SEO, and digital content at **Al Fadha Marbles & Granite since September 2022**.
-- Earlier development roles at **Novamax Technologies**, **Logicade.io**, and **Technomide**.
-
-*Freelance figures reflect the September 2026 snapshot on my portfolio.*
+- Earlier development roles at **Novamax Technologies** and **Logicade.io**.
 
 ## What I work with
 
