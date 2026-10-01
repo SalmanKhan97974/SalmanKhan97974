@@ -85,6 +85,8 @@ Abasyn University, Islamabad Campus
 
 Google Ads, conversion tracking, and practical ways to connect website performance with business results.
 
+I stay up to date with AI tool news and developments every day, exploring new tools, model releases, and practical workflows for web development, content creation, and digital marketing.
+
 ## Let's connect
 
 Open to web development, WordPress, SEO, AI content, and Discord projects, as well as relevant opportunities in the UAE.
