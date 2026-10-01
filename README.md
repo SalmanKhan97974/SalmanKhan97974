@@ -20,7 +20,7 @@ I'm a software engineering graduate with hands-on experience in frontend develop
 | Area | Tools and skills |
 | :--- | :--- |
 | Frontend development | Next.js, React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Bootstrap, Sass |
-| WordPress | Elementor, WooCommerce, responsive websites, product catalogs, maintenance |
+| WordPress | Elementor Pro, WooCommerce, responsive websites, product catalogs, maintenance |
 | Search and performance | Technical SEO, on-page SEO, local SEO, SEO audits, keyword research, structured data, speed optimization |
 | Analytics | Google Analytics, Google Tag Manager, Google Search Console |
 | AI and creative content | Prompt engineering, ChatGPT, Google Gemini, AI images and video, UGC-style creative, content planning |
@@ -30,17 +30,27 @@ I'm a software engineering graduate with hands-on experience in frontend develop
 
 ## Selected work
 
+I've worked on numerous websites and web projects across business and freelance roles. This is a selection of my work, and I'll add more projects here over time.
+
 ### [Al Fadha Marbles & Granite](https://alfadha.ae/)
-A digital presence for a stone supplier in Sharjah. My contributions include two website redesigns, Elementor development, a **326-product WooCommerce catalog**, product and category organization, SEO, and performance improvements. I also manage product photography, catalogs, social content, hosting, and business email.
+**Business website · Tools: WordPress, Elementor Pro, WooCommerce**
+
+A digital presence for a stone supplier in Sharjah. My contributions include two website redesigns, WordPress and Elementor Pro development, a **326-product WooCommerce catalog**, product and category organization, SEO, and performance improvements. I also manage product photography, catalogs, social content, hosting, and business email.
 
 ### [Rikin Al Fadha](https://rikinalfadha.ae/)
+**Business website · Tools: WordPress, Elementor Pro, WooCommerce**
+
 Website design and development, alongside ongoing responsibility for the company's two websites.
 
 ### [Formatza](https://formatza.com/)
-Co-founder alongside Syed Muhammad Usman. A platform with **200+ browser tools** for images, PDFs, video, audio, spreadsheets, and developer workflows. I contribute to the product, its digital presence, and content.
+**Web app · Browser-based file tools**
+
+Co-founder alongside Syed Muhammad Usman. A web app with **200+ browser tools** for images, PDFs, video, audio, spreadsheets, and developer workflows. I contribute to the product, its digital presence, and content.
 
 ### PhysiqueOS · In development
-A frontend-only fitness toolkit built with **Next.js, TypeScript, and Tailwind CSS**. It brings fitness calculators, macro guidance, workout planning, muscle coverage analysis, and exercise information into one interface. Calculations run in the browser, with no backend, database, or account required.
+**Fitness web app · Tech stack: Next.js App Router, React, TypeScript, Tailwind CSS**
+
+A frontend-only fitness web app. It brings fitness calculators, macro guidance, workout planning, muscle coverage analysis, and exercise information into one interface. Calculations run in the browser, with no backend, database, or account required.
 
 ### Discord community systems
 Custom server setups shaped around each community's needs. My work includes server architecture, permissions, verification, onboarding, welcome flows, moderation, support tickets, and role systems.
