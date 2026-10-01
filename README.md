@@ -6,7 +6,7 @@ Based in the UAE. I bring websites, search visibility, and creative content toge
 
 I'm a software engineering graduate with hands-on experience in frontend development, WordPress, SEO, website performance, visual design, and AI content creation. I take projects from the first conversation through delivery and ongoing support.
 
-**[Explore my portfolio](https://salman-khan-digital.salmankhan97974.chatgpt.site/)** · **[LinkedIn](https://www.linkedin.com/in/salmankhan97974/)** · **[Fiverr](https://www.fiverr.com/mr_salmankhan)**
+**[LinkedIn](https://www.linkedin.com/in/salmankhan97974/)**
 
 ## Experience at a glance
 
@@ -44,7 +44,7 @@ Co-founder alongside Syed Muhammad Usman. A platform with **200+ browser tools**
 ### PhysiqueOS · In development
 A frontend-only fitness toolkit built with **Next.js, TypeScript, and Tailwind CSS**. It brings fitness calculators, macro guidance, workout planning, muscle coverage analysis, and exercise information into one interface. Calculations run in the browser, with no backend, database, or account required.
 
-### [Discord community systems](https://www.fiverr.com/mr_salmankhan)
+### Discord community systems
 Custom server setups shaped around each community's needs. My work includes server architecture, permissions, verification, onboarding, welcome flows, moderation, support tickets, and role systems.
 
 ## Education and selected credentials
@@ -90,4 +90,4 @@ Google Ads, conversion tracking, and practical ways to connect website performan
 
 Open to web development, WordPress, SEO, AI content, and Discord projects, as well as relevant opportunities in the UAE.
 
-[LinkedIn](https://www.linkedin.com/in/salmankhan97974/) · [Discuss a project on Fiverr](https://www.fiverr.com/mr_salmankhan) · [Instagram](https://www.instagram.com/salmankhan97974/)
+[LinkedIn](https://www.linkedin.com/in/salmankhan97974/) · [Instagram](https://www.instagram.com/salmankhan97974/)
